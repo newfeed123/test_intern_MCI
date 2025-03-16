@@ -1,4 +1,3 @@
-
 1. Clone repository
 	git clone https://github.com/newfeed123/test_intern_MCI.git
 	cd test_intern_MCI
