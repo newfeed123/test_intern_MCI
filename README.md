@@ -15,4 +15,6 @@
 => Truy cập để test API: http://127.0.0.1:8000/swagger/
 
 => Truy cập site admin: http://127.0.0.1:8000/admin/
+	+ account: admin
+	+ password: 1234
 
