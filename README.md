@@ -12,7 +12,7 @@
 4. Chạy dự án
 	+ python manage.py runserver  
 
-=> Truy cập để test API: http://127.0.0.1:8000/swagger/
+=> Truy cập để test API trên swagger: http://127.0.0.1:8000/swagger/
 
 => Truy cập site admin: http://127.0.0.1:8000/admin/
 	+ account: admin
