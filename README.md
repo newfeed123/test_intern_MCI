@@ -1,16 +1,16 @@
 1. Clone repository
-	git clone https://github.com/newfeed123/test_intern_MCI.git
-	cd test_intern_MCI
+	+ git clone https://github.com/newfeed123/test_intern_MCI.git
+	+ cd test_intern_MCI
 2. Tạo môi trường ảo và cài đặt thư viện
-	python -m venv venv  
-	source venv/bin/activate  
-	# Nếu dùng Windows: venv\Scripts\activate
-	pip install -r requirements.txt  
+	+ python -m venv venv  
+	+ Nếu dùng Linux, Unbutu: source venv/bin/activate  
+   	+ Nếu dùng Windows: venv\Scripts\activate
+	+ pip install -r requirements.txt  
 3. Thiết lập cơ sở dữ liệu
-	python manage.py makemigrations  
-	python manage.py migrate  
+	+ python manage.py makemigrations  
+	+ python manage.py migrate  
 4. Chạy dự án
-	python manage.py runserver  
+	+ python manage.py runserver  
 
 => Truy cập để test API: http://127.0.0.1:8000/swagger/
 
